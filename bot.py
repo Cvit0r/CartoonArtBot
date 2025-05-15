@@ -6,7 +6,7 @@ from telegram.ext import Application, MessageHandler, filters, CommandHandler, C
 from io import BytesIO
 
 # Конфигурация
-TOKEN = "7733293188:AAFqPlGcpyHWgVBo_OaVNDkh_Woam8MUCqo"
+TOKEN = "ЭТО МОЙ ТОКЕН"
 MAX_IMAGE_SIZE = 25600  # 25MB
 MAX_DIMENSION = 4500
 
